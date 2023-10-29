@@ -1,0 +1,125 @@
+Scope No 1: Token <ID> Lexeme def found
+
+Scope No 1: Token <ID> Lexeme my_func found
+
+Scope No 1: Token <LPAREN> Lexeme ( found
+
+Scope No 1: Token <RPAREN> Lexeme ) found
+
+Scope No 1: Token <COLON> Lexeme : found
+
+Scope No 0: Token <ID> Lexeme a found
+
+Scope No 0: Token <ASSIGNOP> Lexeme = found
+
+Scope No 0: Token <CONST_INT> Lexeme 10 found
+
+Scope No 0: Token <ID> Lexeme b found
+
+Scope No 0: Token <ASSIGNOP> Lexeme = found
+
+Scope No 0: Token <CONST_HEX> Lexeme 0xA425B52CE found
+
+Scope No -1: Token <ID> Lexeme c found
+
+Scope No -1: Token <ASSIGNOP> Lexeme = found
+
+Scope No -1: Token <CONST_FLOAT> Lexeme 1.56 found
+
+Scope No -1: Token <ID> Lexeme d found
+
+Scope No -1: Token <ASSIGNOP> Lexeme = found
+
+Scope No -1: Token <CONST_FLOAT_S> Lexeme 0.56e5 found
+
+Scope No -2: Token <ID> Lexeme if found
+
+Scope No -2: Token <LPAREN> Lexeme ( found
+
+Scope No -2: Token <ID> Lexeme a found
+
+Scope No -2: Token <RELOP> Lexeme > found
+
+Scope No -2: Token <ID> Lexeme b found
+
+Scope No -2: Token <RPAREN> Lexeme ) found
+
+Scope No -2: Token <COLON> Lexeme : found
+
+Scope No -1: Token <ID> Lexeme print found
+
+Scope No -1: Token <LPAREN> Lexeme ( found
+
+Scope No -1: Token <ID> Lexeme a found
+
+Scope No -1: Token <RPAREN> Lexeme ) found
+
+Scope No -1: Token <ID> Lexeme elif found
+
+Scope No -1: Token <LPAREN> Lexeme ( found
+
+Scope No -1: Token <ID> Lexeme c found
+
+Scope No -1: Token <RELOP> Lexeme < found
+
+Scope No -1: Token <ID> Lexeme d found
+
+Scope No -1: Token <RPAREN> Lexeme ) found
+
+Scope No -1: Token <COLON> Lexeme : found
+
+Scope No 0: Token <ID> Lexeme print found
+
+Scope No 0: Token <LPAREN> Lexeme ( found
+
+Scope No 0: Token <ID> Lexeme c found
+
+Scope No 0: Token <RPAREN> Lexeme ) found
+
+Scope No 0: Token <ID> Lexeme else found
+
+Scope No 0: Token <COLON> Lexeme : found
+
+Scope No 1: Token <ID> Lexeme print found
+
+Scope No 1: Token <LPAREN> Lexeme ( found
+
+Scope No 1: Token <ID> Lexeme b found
+
+Scope No 1: Token <RPAREN> Lexeme ) found
+
+Scope No 0: Token <ID> Lexeme while found
+
+Scope No 0: Token <LPAREN> Lexeme ( found
+
+Scope No 0: Token <ID> Lexeme a found
+
+Scope No 0: Token <RELOP> Lexeme <= found
+
+Scope No 0: Token <CONST_INT> Lexeme 12 found
+
+Scope No 0: Token <RPAREN> Lexeme ) found
+
+Scope No 0: Token <COLON> Lexeme : found
+
+Scope No 1: Token <ID> Lexeme print found
+
+Scope No 1: Token <LPAREN> Lexeme ( found
+
+Scope No 1: Token <CONST_INT> Lexeme 56 found
+
+Scope No 1: Token <RPAREN> Lexeme ) found
+
+Scope No 2: Token <ID> Lexeme a found
+
+Scope No 2: Token <ADDOP> Lexeme + found
+
+Scope No 2: Token <ASSIGNOP> Lexeme = found
+
+Scope No 2: Token <CONST_INT> Lexeme 1 found
+
+Scope No 2: Token <ID> Lexeme return found
+
+Scope No 2: Token <CONST_INT> Lexeme 0 found
+
+Total scopes: 2
