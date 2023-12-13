@@ -12,3 +12,6 @@
 ### Types and Declarations, variable width and offset calculation SDT 
   (1) [Types and Declaration](https://drive.google.com/file/d/1RbUgv2s1kKgqGK2W__opRWIyJkd-YMLt/view?usp=sharing) <br/>
   (2) [Variable width and offset calculation SDT](https://drive.google.com/file/d/1XRUxhgDCJSgDnBgf9Bh1qXhm4PiwoFqh/view?usp=sharing)
+
+### Symbol Table Implementation, mechanism and Scoping
+  (1) [Symbol Table & Scooping](https://drive.google.com/file/d/1qZjV5DLBVsAM5n8oNq0Dul0XxDGS3KMe/view?usp=drivesdk)
