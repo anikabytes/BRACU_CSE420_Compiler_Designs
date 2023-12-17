@@ -19,9 +19,9 @@
 
 
 ## NST 
-  (1) [Symbol Table Implementation](https://youtu.be/XwDWCigb5Ow)
-  (2) [Grammar Type](https://youtu.be/dSCGkgpjZ-Q)
-  (3) [SDT for variable width and offset calculation](https://youtu.be/XHxKkl6JL_w)
-  (4) [Three Code Address](https://youtu.be/jJd_oOoMtEM)
-  (5) [Quadruples & Triples](https://youtu.be/vwZ7YfKorJw)
+  (1) [Symbol Table Implementation](https://youtu.be/XwDWCigb5Ow) <br/>
+  (2) [Grammar Type](https://youtu.be/dSCGkgpjZ-Q) <br/>
+  (3) [SDT for variable width and offset calculation](https://youtu.be/XHxKkl6JL_w) <br/>
+  (4) [Three Code Address](https://youtu.be/jJd_oOoMtEM) <br/>
+  (5) [Quadruples & Triples](https://youtu.be/vwZ7YfKorJw) <br/>
 
