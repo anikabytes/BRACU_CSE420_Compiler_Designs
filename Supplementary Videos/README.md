@@ -1,6 +1,7 @@
-## Fall'23 Online Class Recordings (SRF) 
+# Fall'23 Online Class Recordings 
 
 ## Final 
+## SRF 
 ### SDD
   (1) [S attributed SDD](https://drive.google.com/file/d/1qcfntGYvVSSnxevBgZ8iNBXz3Yxs9Nhs/view?usp=drivesdk) <br/>
   (2) [L attributed SDD](https://drive.google.com/file/d/1qejU96bJpw6lgoTPAmwg6FMfqAdmbORj/view?usp=drivesdk)
@@ -15,3 +16,12 @@
 
 ### Symbol Table Implementation, mechanism and Scoping
   (1) [Symbol Table & Scooping](https://drive.google.com/file/d/1qZjV5DLBVsAM5n8oNq0Dul0XxDGS3KMe/view?usp=drivesdk)
+
+
+## NST 
+  (1) [Symbol Table Implementation](https://youtu.be/XwDWCigb5Ow) <br/>
+  (2) [Grammar Type](https://youtu.be/dSCGkgpjZ-Q) <br/>
+  (3) [SDT for variable width and offset calculation](https://youtu.be/XHxKkl6JL_w) <br/>
+  (4) [Three Code Address](https://youtu.be/jJd_oOoMtEM) <br/>
+  (5) [Quadruples & Triples](https://youtu.be/vwZ7YfKorJw) <br/>
+
