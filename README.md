@@ -22,3 +22,19 @@
 [Lab2](https://drive.google.com/drive/folders/1jx92EEzYy9s2VUH6PLQ4J-ruFSUCBKk5)<br/>
 
 [Lab3](https://drive.google.com/drive/folders/1ThD5OAyHV4soSuM6VkIiiMBujWwpPS3O?usp=sharing)<br/>
+
+## Syllabus 
+
+### Midterm 
+(1) Syntax Tree 
+(2) SLR parser 
+(3) Stack Implementation 
+(4) RE to NFA 
+(5) First & Follow 
+
+## Final 
+(1) LR(1)
+(2) SDD 
+(3) AST,DAG, Three code address, Quadruples & Triples
+(4) Types & Declaration, Variable width & offset calculation using SDT
+(5) Symbol Table & Scooping
